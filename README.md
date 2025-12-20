@@ -11,7 +11,7 @@ vim kmp-mobile-multimodule-template.rb
 
 インストール確認
 ```
-# 1. あなたのTapリポジトリを登録
+# 1. Tapリポジトリを登録
 brew tap kk-house-777/tap
 
 # 2. ツールをインストール
