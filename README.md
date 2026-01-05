@@ -1,5 +1,5 @@
 ```
-# 1. Tapリポジトリをクローン (ユーザー名はご自身のものに合わせてください)
+# 1. Tapリポジトリをクローン
 git clone https://github.com/kk-house-777/homebrew-tap.git
 cd homebrew-tap
 
