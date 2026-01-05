@@ -7,6 +7,6 @@ class KotlinNativeTemplate < Formula
   license "MIT"
 
   def install
-    bin.install "kotlin-native-template"
+    bin.install "generate" => "kotlin-native-template"
   end
 end
